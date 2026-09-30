@@ -1,0 +1,12 @@
+C:\Users\workstation\source\repos\Trafic_Lights_Project\bin\Debug\Trafic_Lights_Project.exe.config
+C:\Users\workstation\source\repos\Trafic_Lights_Project\bin\Debug\Trafic_Lights_Project.exe
+C:\Users\workstation\source\repos\Trafic_Lights_Project\bin\Debug\Trafic_Lights_Project.pdb
+C:\Users\workstation\source\repos\Trafic_Lights_Project\obj\Debug\Trafic_Lights_Project.csproj.AssemblyReference.cache
+C:\Users\workstation\source\repos\Trafic_Lights_Project\obj\Debug\Trafic_Lights_Project.Form1.resources
+C:\Users\workstation\source\repos\Trafic_Lights_Project\obj\Debug\Trafic_Lights_Project.Properties.Resources.resources
+C:\Users\workstation\source\repos\Trafic_Lights_Project\obj\Debug\Trafic_Lights_Project.UCTrafic_Lights.resources
+C:\Users\workstation\source\repos\Trafic_Lights_Project\obj\Debug\Trafic_Lights_Project.csproj.GenerateResource.cache
+C:\Users\workstation\source\repos\Trafic_Lights_Project\obj\Debug\Trafic_Lights_Project.csproj.CoreCompileInputs.cache
+C:\Users\workstation\source\repos\Trafic_Lights_Project\obj\Debug\Trafic_Lights_Project.exe
+C:\Users\workstation\source\repos\Trafic_Lights_Project\obj\Debug\Trafic_Lights_Project.pdb
+C:\Users\workstation\source\repos\Trafic_Lights_Project\obj\Debug\Trafic_Lights_Project.exe.config
